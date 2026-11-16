@@ -1,56 +1,56 @@
-﻿- [ ] **1.** Hány olyan termékünk van összesen, aminek az ára kevesebb mint 10 000 Ft?
-- [ ] **2.** Melyik a legdrágább termék a teljes kínálatban? (Válaszként a teljes objektumra van szükség.)
-- [ ] **3.** Keresd meg a listában azt az egyetlen terméket, amelynek az `Id`-ja pontosan 42!
-- [ ] **4.** Van-e egyáltalán olyan termék a teljes kínálatban, aminek az ára meghaladja az 1 000 000 Ft-ot?
-- [ ] **5.** Mennyi az összes termékünk átlagos értékelése a webshopban (a teljes listát nézve)?
-- [ ] **6.** Keresd meg az első "Quantum" gyártmányú okostelefont, amelynek az ára 200 000 Ft alatt van! (Ha nincs ilyen, az eredmény legyen `null`).
-- [ ] **7.** Keresd meg a lista legutolsó olyan termékét, amiből pontosan 0 darab van raktáron! (Ha nincs ilyen, az eredmény legyen `null`).
-- [ ] **8.** Igaz-e az az állítás, hogy a kínálatunkban lévő összes termék értékelése eléri a 3.0-t?
-- [ ] **9.** Melyik termékből van a legnagyobb darabszám készleten a teljes raktárat figyelembe véve?
-- [ ] **10.** Keresd meg a fájl szerinti legelső "Tablet" kategóriájú terméket!
-- [ ] **11.** Hány darab "Okostelefon" kategóriájú termék található a listában?
-- [ ] **12.** Mennyi a teljes raktárkészletünk darabszáma összesen (az összes termékből együttesen)?
-- [ ] **13.** Keresd meg a listában a "Foldable Z2" modellnevű terméket (biztosak vagyunk benne, hogy pontosan egy ilyen van)!
-- [ ] **14.** Létezik-e legalább egy olyan termék a rendszerben, amiből több mint 300 darab porosodik a raktáron?
-- [ ] **15.** Melyik a legutolsó "Monitor" kategóriájú termék a lista sorrendje alapján?
-- [ ] **16.** Melyik a legrosszabbra értékelt termék az egész raktárban?
-- [ ] **17.** Mekkora a teljes árukészletünk összértéke (ár × készlet) az összes kategóriát egybevéve?
-- [ ] **18.** Igaz-e, hogy az összes raktáron lévő termékünk ára 1 000 000 Ft alatt van?
-- [ ] **19.** Keresd meg a "Gamer Pro 19" nevű modellt! A program fusson tovább hiba nélkül akkor is, ha ilyen termék még nem létezik a rendszerben.
-- [ ] **20.** Mi az átlagos ára a kínálatunkban szereplő 80 db terméknek?
-- [ ] **21.** Keresd meg a listában azt a "Cyber" gyártmányú terméket, aminek az értékelése hajszálpontosan 3.8! (Tegyük fel, hogy nem tudjuk, hány ilyen van, de az elsőt kérjük).
-- [ ] **22.** Igaz-e az az állítás, hogy az összes "Kiegeszito" kategóriájú termékből van legalább 10 db raktáron?
-- [ ] **23.** Hány olyan termékünk van, aminek a gyártója "Apex" és az ára 20 000 Ft felett van?
-- [ ] **24.** Melyik az az egyetlen termék, aminek az azonosítója (`Id`) pontosan 80?
-- [ ] **25.** Mennyi az átlagos készletszint (darabszám) a "NextGen" márkájú termékek esetében?
-- [ ] **26.** Melyik a legolcsóbb "Monitor" a jelenlegi kínálatunkban?
-- [ ] **27.** Van-e olyan "Laptop" a listában, amiből több mint 100 darab porosodik a raktáron?
-- [ ] **28.** Mennyi a "Tablet" kategóriájú termékek értékelésének átlaga?
-- [ ] **29.** Keresd meg a lista legelső olyan termékét, aminek az ára pontosan 45 000 Ft!
-- [ ] **30.** Melyik az utolsó olyan termék a fájlban, aminek az értékelése tökéletes (5.0)?
-- [ ] **31.** Hány darab olyan termékünk van összesen, amelynek a nevében (`Modell`) szerepel a "Pro" szó?
-- [ ] **32.** Mekkora a "Nova" gyártó összes termékének együttes készletértéke forintban (ár × darab)?
-- [ ] **33.** Melyik az a "SoundWave" termék, amiből a legkevesebb van raktáron?
-- [ ] **34.** Igaz-e, hogy az összes 500 000 Ft-nál drágább prémium termékünk értékelése legalább 4.5?
-- [ ] **35.** Keresd meg a rendszerben azt az egyetlen terméket, amelynek a modellneve "Pocket 6G"!
-- [ ] **36.** Van-e olyan termék a "Kiegeszito" kategóriában, ami drágább, mint 50 000 Ft?
-- [ ] **37.** Keresd meg a legelső olyan "TechPro" márkájú terméket, amelynek az ára még 100 000 Ft alatt van! (Biztosítsd, hogy ne fagyjon le a kód, ha ilyen már nincs).
-- [ ] **38.** Melyik a legmagasabb értékelést kapott "Okostelefon" az egész listában?
-- [ ] **39.** Hány darab termékünk van összesen az "Apex" és a "Quantum" gyártóktól együttesen? (Egy lekérdezésben oldd meg!)
-- [ ] **40.** Keresd meg a sorrend szerinti legutolsó olyan terméket a listában, ami "Vision" gyártmányú!
-- [ ] **41.** Rendezd a teljes listát ár szerint növekvő sorrendbe!
-- [ ] **42.** Rendezd az "Okostelefon" kategóriájú termékeket értékelés szerint csökkenő sorrendbe!
-- [ ] **43.** Listázd ki az összes "Nova" terméket raktárkészlet (darabszám) alapján csökkenő sorrendben!
-- [ ] **44.** Rendezd a teljes kínálatot először kategória szerint ABC sorrendbe, majd azon belül ár szerint csökkenőbe!
-- [ ] **45.** Rendezd a termékeket gyártó szerint ABC sorrendbe, azon belül pedig értékelés szerint növekvőbe!
-- [ ] **46.** Listázd ki a "Laptop" kategória termékeit: először értékelés alapján csökkenően, majd (ha ez megegyezik) ár alapján növekvően!
-- [ ] **47.** Melyik a 3 legolcsóbb termékünk a teljes kínálatban? (Használd a `Take` metódust!)
-- [ ] **48.** Keresd meg a 3 legdrágább "Monitor" kategóriájú terméket!
-- [ ] **49.** Válaszd ki az 5 legjobbra értékelt "Kiegeszito" kategóriájú terméket!
-- [ ] **50.** Rendezd a listát készlet szerint növekvőbe, és add vissza a legelsőt a `First` segítségével! (Ez amúgy megegyezik a `MinBy` logikájával).
-- [ ] **51.** Listázd ki a 10 legkevesebb raktárkészlettel rendelkező terméket a teljes rendszerből!
-- [ ] **52.** Melyek azok a termékek, amik 50 000 Ft alattiak? Rendezd őket értékelés szerint csökkenően!
-- [ ] **53.** Listázd az összes 4.5-nél jobb értékelésű "Tablet"-et és "Monitor"-t együttesen, ár szerint növekvő sorrendben!
+﻿- [x] **1.** Hány olyan termékünk van összesen, aminek az ára kevesebb mint 10 000 Ft?
+- [x] **2.** Melyik a legdrágább termék a teljes kínálatban? (Válaszként a teljes objektumra van szükség.)
+- [x] **3.** Keresd meg a listában azt az egyetlen terméket, amelynek az `Id`-ja pontosan 42!
+- [x] **4.** Van-e egyáltalán olyan termék a teljes kínálatban, aminek az ára meghaladja az 1 000 000 Ft-ot?
+- [x] **5.** Mennyi az összes termékünk átlagos értékelése a webshopban (a teljes listát nézve)?
+- [x] **6.** Keresd meg az első "Quantum" gyártmányú okostelefont, amelynek az ára 200 000 Ft alatt van! (Ha nincs ilyen, az eredmény legyen `null`).
+- [x] **7.** Keresd meg a lista legutolsó olyan termékét, amiből pontosan 0 darab van raktáron! (Ha nincs ilyen, az eredmény legyen `null`).
+- [x] **8.** Igaz-e az az állítás, hogy a kínálatunkban lévő összes termék értékelése eléri a 3.0-t?
+- [x] **9.** Melyik termékből van a legnagyobb darabszám készleten a teljes raktárat figyelembe véve?
+- [x] **10.** Keresd meg a fájl szerinti legelső "Tablet" kategóriájú terméket!
+- [x] **11.** Hány darab "Okostelefon" kategóriájú termék található a listában?
+- [x] **12.** Mennyi a teljes raktárkészletünk darabszáma összesen (az összes termékből együttesen)?
+- [x] **13.** Keresd meg a listában a "Foldable Z2" modellnevű terméket (biztosak vagyunk benne, hogy pontosan egy ilyen van)!
+- [x] **14.** Létezik-e legalább egy olyan termék a rendszerben, amiből több mint 300 darab porosodik a raktáron?
+- [x] **15.** Melyik a legutolsó "Monitor" kategóriájú termék a lista sorrendje alapján?
+- [x] **16.** Melyik a legrosszabbra értékelt termék az egész raktárban?
+- [x] **17.** Mekkora a teljes árukészletünk összértéke (ár × készlet) az összes kategóriát egybevéve?
+- [x] **18.** Igaz-e, hogy az összes raktáron lévő termékünk ára 1 000 000 Ft alatt van?
+- [x] **19.** Keresd meg a "Gamer Pro 19" nevű modellt! A program fusson tovább hiba nélkül akkor is, ha ilyen termék még nem létezik a rendszerben.
+- [x] **20.** Mi az átlagos ára a kínálatunkban szereplő 80 db terméknek?
+- [x] **21.** Keresd meg a listában azt a "Cyber" gyártmányú terméket, aminek az értékelése hajszálpontosan 3.8! (Tegyük fel, hogy nem tudjuk, hány ilyen van, de az elsőt kérjük).
+- [x] **22.** Igaz-e az az állítás, hogy az összes "Kiegeszito" kategóriájú termékből van legalább 10 db raktáron?
+- [x] **23.** Hány olyan termékünk van, aminek a gyártója "Apex" és az ára 20 000 Ft felett van?
+- [x] **24.** Melyik az az egyetlen termék, aminek az azonosítója (`Id`) pontosan 80?
+- [x] **25.** Mennyi az átlagos készletszint (darabszám) a "NextGen" márkájú termékek esetében?
+- [x] **26.** Melyik a legolcsóbb "Monitor" a jelenlegi kínálatunkban?
+- [x] **27.** Van-e olyan "Laptop" a listában, amiből több mint 100 darab porosodik a raktáron?
+- [x] **28.** Mennyi a "Tablet" kategóriájú termékek értékelésének átlaga?
+- [x] **29.** Keresd meg a lista legelső olyan termékét, aminek az ára pontosan 45 000 Ft!
+- [x] **30.** Melyik az utolsó olyan termék a fájlban, aminek az értékelése tökéletes (5.0)?
+- [x] **31.** Hány darab olyan termékünk van összesen, amelynek a nevében (`Modell`) szerepel a "Pro" szó?
+- [x] **32.** Mekkora a "Nova" gyártó összes termékének együttes készletértéke forintban (ár × darab)?
+- [x] **33.** Melyik az a "SoundWave" termék, amiből a legkevesebb van raktáron?
+- [x] **34.** Igaz-e, hogy az összes 500 000 Ft-nál drágább prémium termékünk értékelése legalább 4.5?
+- [x] **35.** Keresd meg a rendszerben azt az egyetlen terméket, amelynek a modellneve "Pocket 6G"!
+- [x] **36.** Van-e olyan termék a "Kiegeszito" kategóriában, ami drágább, mint 50 000 Ft?
+- [x] **37.** Keresd meg a legelső olyan "TechPro" márkájú terméket, amelynek az ára még 100 000 Ft alatt van! (Biztosítsd, hogy ne fagyjon le a kód, ha ilyen már nincs).
+- [x] **38.** Melyik a legmagasabb értékelést kapott "Okostelefon" az egész listában?
+- [x] **39.** Hány darab termékünk van összesen az "Apex" és a "Quantum" gyártóktól együttesen? (Egy lekérdezésben oldd meg!)
+- [x] **40.** Keresd meg a sorrend szerinti legutolsó olyan terméket a listában, ami "Vision" gyártmányú!
+- [x] **41.** Rendezd a teljes listát ár szerint növekvő sorrendbe!
+- [x] **42.** Rendezd az "Okostelefon" kategóriájú termékeket értékelés szerint csökkenő sorrendbe!
+- [x] **43.** Listázd ki az összes "Nova" terméket raktárkészlet (darabszám) alapján csökkenő sorrendben!
+- [x] **44.** Rendezd a teljes kínálatot először kategória szerint ABC sorrendbe, majd azon belül ár szerint csökkenőbe!
+- [x] **45.** Rendezd a termékeket gyártó szerint ABC sorrendbe, azon belül pedig értékelés szerint növekvőbe!
+- [x] **46.** Listázd ki a "Laptop" kategória termékeit: először értékelés alapján csökkenően, majd (ha ez megegyezik) ár alapján növekvően!
+- [x] **47.** Melyik a 3 legolcsóbb termékünk a teljes kínálatban? (Használd a `Take` metódust!)
+- [x] **48.** Keresd meg a 3 legdrágább "Monitor" kategóriájú terméket!
+- [x] **49.** Válaszd ki az 5 legjobbra értékelt "Kiegeszito" kategóriájú terméket!
+- [x] **50.** Rendezd a listát készlet szerint növekvőbe, és add vissza a legelsőt a `First` segítségével! (Ez amúgy megegyezik a `MinBy` logikájával).
+- [x] **51.** Listázd ki a 10 legkevesebb raktárkészlettel rendelkező terméket a teljes rendszerből!
+- [x] **52.** Melyek azok a termékek, amik 50 000 Ft alattiak? Rendezd őket értékelés szerint csökkenően!
+- [x] **53.** Listázd az összes 4.5-nél jobb értékelésű "Tablet"-et és "Monitor"-t együttesen, ár szerint növekvő sorrendben!
 - [ ] **54.** Válaszd ki azokat a "TechPro" termékeket, amikből kevesebb mint 20 db van raktáron, és rendezd őket modellnév szerint ABC sorrendbe!
 - [ ] **55.** Mik a legdrágább termékek a "Cyber" gyártótól? Add vissza az első kettőt, ár szerint csökkenő sorrendben!
 - [ ] **56.** Keresd meg azokat a termékeket, amelyek nevében szerepel a "Pro" szó, és rendezd őket készlet alapján csökkenőbe!

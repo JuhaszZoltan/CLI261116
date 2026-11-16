@@ -13,5 +13,5 @@
         $"\t[ID: {Id}] {Brand} - {Model}\n" +
         $"\tÁr: {PriceHUF:C0}\n" +
         $"\tKészleten: {StoctQty} db\n" +
-        $"\tÉrtékelés: {Rating:0.0}/5.0";
+        $"\tÉrtékelés: {Rating:0.0}/5,0";
 }
